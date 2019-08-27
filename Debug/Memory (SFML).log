@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\tlins\documents\visual studio 2017\projects\memory (sfml)\memory (sfml)\main.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Memory (SFML).vcxproj -> C:\Users\tlins\Documents\Visual Studio 2017\Projects\Memory (SFML)\Debug\Memory (SFML).exe
